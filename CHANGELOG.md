@@ -1,5 +1,23 @@
 # Changelog
 
+## 4.9.1 (2024-07-10)
+
+### Bug Fixes
+
+- Update `talk` command
+
+## 4.9.0 (2024-07-10)
+
+### New Features
+
+- Support `gpt-4o` model
+
+## 4.8.4 (2024-07-06)
+
+### Bug Fixes
+
+- Update status page
+
 ## 4.8.3 (2024-02-03)
 
 ### Bug Fixes
